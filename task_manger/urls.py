@@ -1,0 +1,8 @@
+"""
+URL configuration for task_manager project.
+"""
+from django.urls import path, include
+
+urlpatterns = [
+    path('tasks/', include('tasks.urls')),
+]

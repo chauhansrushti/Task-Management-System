@@ -120,3 +120,5 @@ The application will be available at: `http://127.0.0.1:8000/tasks/`
 - User-specific task assignment
 - Email notifications for deadlines
 - Task filtering and search
+
+ check video for visual apperance  - https://www.linkedin.com/posts/srushtichauhan_python-django-mongodb-ugcPost-7474714796471545856-zzOF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAIr7IBDknKbiCxKFQgT-oHJKsg8XJTTbA
